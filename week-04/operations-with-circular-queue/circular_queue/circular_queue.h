@@ -4,6 +4,7 @@
 
 #ifndef CIRCULAR_QUEUE_H
 #define CIRCULAR_QUEUE_H
+#include <stdbool.h>
 
 typedef struct {
     int capacity;
